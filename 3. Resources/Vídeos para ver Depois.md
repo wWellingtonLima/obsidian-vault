@@ -26,7 +26,7 @@
 
 - [Full HTTP Networking Course](https://www.youtube.com/watch?v=2JYT5f2isg4&list=WL&index=10&ab_channel=freeCodeCamp.org)
 - [# 8 Design Patterns EVERY Developer Should Know](https://www.youtube.com/watch?v=tAuRQs_d9F8&list=WL&index=3&ab_channel=NeetCode)
-- 
+
 
 - [Trabalho e relacionados]
 	- [Por que nós deveríamos contratar você?](https://www.youtube.com/watch?v=WQ6snVCCgt4&list=WL&index=3&ab_channel=TheCompaniesExpert)
