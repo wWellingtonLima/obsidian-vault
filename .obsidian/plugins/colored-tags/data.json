@@ -1,0 +1,32 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "project": 1,
+    "area": 2,
+    "excalidraw": 3,
+    "manutenção": 4,
+    "moto": 5,
+    "programming": 6,
+    "NextJs": 7,
+    "CodeWAntonio": 8,
+    "tutorialClone": 9,
+    "glossary": 10,
+    "Explorer": 11,
+    "SQL": 12,
+    "DB": 13,
+    "http": 14,
+    "protocols": 15,
+    "git": 16,
+    "github": 17
+  },
+  "_version": 3
+}

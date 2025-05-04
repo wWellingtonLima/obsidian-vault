@@ -1,0 +1,275 @@
+{
+  "main": {
+    "id": "4ce9467630806076",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3a3d36671e9d06a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b47d29a25b1e85f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Resources/Rotina de Exercícios.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rotina de Exercícios"
+            }
+          },
+          {
+            "id": "39db8fc394bda9e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Resources/Vídeos para ver Depois.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vídeos para ver Depois"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "068425c23ab84ed4",
+    "type": "split",
+    "children": [
+      {
+        "id": "e98139553e7e5e5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "471bea055b8c5f93",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c684f4a5f35c335e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7075f5cf3912dc93",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3c6f8689d1a05cf2",
+    "type": "split",
+    "children": [
+      {
+        "id": "eabce471fc29dc51",
+        "type": "tabs",
+        "dimension": 67.3469387755102,
+        "children": [
+          {
+            "id": "ef2b0f1870c97fc2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "bora.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for bora"
+            }
+          },
+          {
+            "id": "2789eaa2415af307",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "bora.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from bora"
+            }
+          },
+          {
+            "id": "e8750183da5173ea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c20319fc01a13f0b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3. Resources/Vídeos para ver Depois.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Vídeos para ver Depois"
+            }
+          },
+          {
+            "id": "3ac404788f7a38be",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "771d2aee01934e8f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "0b2a54de88230efa",
+        "type": "tabs",
+        "dimension": 32.6530612244898,
+        "children": [
+          {
+            "id": "968310b486b083ce",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "daily-notes:Open today's daily note": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-importer:Open Importer": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "771d2aee01934e8f",
+  "lastOpenFiles": [
+    "3. Resources/Rotina de Exercícios.md",
+    "3. Resources/Vídeos para ver Depois.md",
+    "Vídeos Watch.md",
+    "Painel.md",
+    "2. Areas/Languages/English/Untitled.md",
+    "().md",
+    "2. Areas/Languages/English",
+    "2. Areas/Languages",
+    "2. Areas/Programming/_Glossário Programação.md",
+    "2. Areas/Programming/Curso.dev.md",
+    "1. Projects/Explorer Ideias.md",
+    "4. Assets/Mecânica Guia de Estudos.md",
+    "2. Areas/Programming/Git.md",
+    "Assets/Pasted image 20250503202635.png",
+    "Assets/Pasted image 20250503202045.png",
+    "Assets/Pasted image 20250503201856.png",
+    "Assets/Pasted image 20250503201816.png",
+    "2. Areas/Programming/Protocolos HTTP.md",
+    "Daily Notes or Temporary/Estudar Medicamentos funcionalidade.md",
+    "Daily Notes or Temporary/01-05-2025.md",
+    "Daily Notes or Temporary",
+    "2. Areas/Programming/NodeJs.md",
+    "2. Areas/Organização dos projetos.md",
+    "2025-05-01.md",
+    "NodeJs.md",
+    "2. Areas/Programming/Escolha do Banco de Dados.md",
+    "2. Areas/Programming/Quando NÃO usar SQL.md",
+    "Assets/Pasted image 20250501073918.png",
+    "Assets",
+    "Templates/Area Template.md",
+    "Glossário Programação.md",
+    "2. Areas/Programming/Drawing 2025-04-29 19.13.00.excalidraw.md",
+    "2. Areas/Mecânica/Manutenção Moto.md",
+    "2. Areas/Mecânica/Óleo de motor.md",
+    "2. Areas/Mecânica/Tipos de óleo automotivos.md",
+    "2. Areas/Mecânica",
+    "2. Areas/Programming",
+    "2. Areas/Untitled.canvas",
+    "Templates",
+    "3. Resources",
+    "2. Areas",
+    "1. Projects"
+  ]
+}

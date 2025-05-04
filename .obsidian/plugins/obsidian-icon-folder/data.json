@@ -1,0 +1,52 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FasFaceGrinTongueWink",
+      "SiGit",
+      "CoNote",
+      "OcLaw16",
+      "LiServer"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "4. Assets": "LiBox",
+  "1. Projects": "TiStairsUp",
+  "2. Areas": "CoFolders",
+  "3. Resources": "TiBackpack",
+  "Templates": "LiCopy",
+  "2. Areas/Programming": "FasCode",
+  "2. Areas/Mecânica": "LiSettings",
+  "2. Areas/Programming/Curso.dev.md": "FabDev",
+  "2. Areas/Programming/_Glossário Programação.md": "LiLibrary",
+  "2. Areas/Programming/Quando NÃO usar SQL.md": "IbDatabse",
+  "2. Areas/Programming/NodeJs.md": "LiServer",
+  "2. Areas/Programming/Protocolos HTTP.md": "OcLaw16",
+  "Daily Notes or Temporary": "CoNote",
+  "2. Areas/Programming/Git.md": "SiGit",
+  "2. Areas/Languages": "FasFaceGrinTongueWink"
+}
