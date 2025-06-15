@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "17b612c2447057ee",
+            "id": "b761f84471bb0433",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Areas/Organização dos projetos.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Organização dos projetos"
+              "title": "Home"
             }
           }
         ]
@@ -223,8 +223,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "17b612c2447057ee",
+  "active": "b761f84471bb0433",
   "lastOpenFiles": [
+    "2. Areas/Organização dos projetos.md",
     "2. Areas/Programming/Full HTTP Networking Course.md",
     "Home.md",
     "Vídeos Watch.md",
@@ -249,7 +250,6 @@
     "2. Areas/Languages/English/Untitled.md",
     "Daily Notes or Temporary/Estudar Medicamentos funcionalidade.md",
     "3. Resources/Rotina de Exercícios.md",
-    "2. Areas/Organização dos projetos.md",
     "1. Projects/Explorer Ideias.md",
     "1. Projects/Build 25 React Projects.md",
     "2. Areas/Programming/Responsividade.md",
