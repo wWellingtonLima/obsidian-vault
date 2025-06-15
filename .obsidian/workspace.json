@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d4f313b05fcb68fc",
+            "id": "17b612c2447057ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "2. Areas/Programming/_Glossário Programação.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Home.md",
+                "bFile": "Home.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "_Glossário Programação"
+              "icon": "diff",
+              "title": "Diff: Home"
             }
           }
         ]
@@ -223,13 +223,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "471bea055b8c5f93",
+  "active": "17b612c2447057ee",
   "lastOpenFiles": [
     "Home.md",
+    "Vídeos Watch.md",
+    "2. Areas/Programming/_Glossário Programação.md",
     "Pensamentos e Listas de fazeres.md",
     "my_vault/one note.md",
     "my_vault",
-    "Vídeos Watch.md",
     "Lista de compras.md",
     "Material para comprar Moto.md",
     "2. Areas/Programming/Full HTTP Networking Course.md",
@@ -239,7 +240,6 @@
     "2. Areas/Programming/Curso.dev.md",
     "2. Areas/Programming/Livro - Entendendo Algoritmos.md",
     "Assets/Pasted image 20250523192502.png",
-    "2. Areas/Programming/_Glossário Programação.md",
     "Assets/Pasted image 20250520175423.png",
     "Assets/Pasted image 20250518194924.png",
     "Assets/lvjZb5u.png",

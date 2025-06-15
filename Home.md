@@ -14,3 +14,4 @@ sort data asc
 - Ver [aula inglês](https://www.youtube.com/watch?v=pwEhK119EeE)
 - Ver [14 truques do DevTools que farão de você um desenvolvedor melhor](https://www.youtube.com/watch?v=pw14NzfYPa8)
 - Ler algumas páginas livro Entendendo Algoritmos
+- Teste
