@@ -11,14 +11,14 @@
             "id": "17b612c2447057ee",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Home.md",
-                "bFile": "Home.md",
-                "aRef": ""
+                "file": "2. Areas/Organização dos projetos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Home"
+              "icon": "lucide-file",
+              "title": "Organização dos projetos"
             }
           }
         ]
@@ -225,6 +225,7 @@
   },
   "active": "17b612c2447057ee",
   "lastOpenFiles": [
+    "2. Areas/Programming/Full HTTP Networking Course.md",
     "Home.md",
     "Vídeos Watch.md",
     "2. Areas/Programming/_Glossário Programação.md",
@@ -233,7 +234,6 @@
     "my_vault",
     "Lista de compras.md",
     "Material para comprar Moto.md",
-    "2. Areas/Programming/Full HTTP Networking Course.md",
     "2. Areas/Programming/Protocolos HTTP.md",
     "Assets/Pasted image 20250608075613.png",
     "3. Resources/Vídeos para ver Depois.md",
