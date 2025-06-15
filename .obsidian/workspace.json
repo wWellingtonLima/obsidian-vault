@@ -1,42 +1,27 @@
 {
   "main": {
-    "id": "4ce9467630806076",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "d3a3d36671e9d06a",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "b47d29a25b1e85f0",
+            "id": "d4f313b05fcb68fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/Rotina de Exercícios.md",
+                "file": "2. Areas/Programming/_Glossário Programação.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rotina de Exercícios"
-            }
-          },
-          {
-            "id": "39db8fc394bda9e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Resources/Rotina de Exercícios.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rotina de Exercícios"
+              "title": "_Glossário Programação"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bora.md",
+                "file": "2. Areas/Programming/Full HTTP Networking Course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for bora"
+              "title": "Backlinks for Full HTTP Networking Course"
             }
           },
           {
@@ -129,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bora.md",
+                "file": "2. Areas/Programming/Full HTTP Networking Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from bora"
+              "title": "Outgoing links from Full HTTP Networking Course"
             }
           },
           {
@@ -158,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/Vídeos para ver Depois.md",
+                "file": "2. Areas/Programming/Full HTTP Networking Course.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vídeos para ver Depois"
+              "title": "Outline of Full HTTP Networking Course"
             }
           },
           {
@@ -219,67 +204,73 @@
       }
     ],
     "direction": "horizontal",
-    "width": 509.5
+    "width": 296.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "canvas:Create new canvas": false,
+      "switcher:Open quick switcher": true,
+      "canvas:Create new canvas": true,
       "templates:Insert template": true,
-      "command-palette:Open command palette": true,
-      "daily-notes:Open today's daily note": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-importer:Open Importer": false,
+      "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": true,
+      "omnisearch:Omnisearch": true,
+      "obsidian-importer:Open Importer": true,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "9ec29b4fd97f29b1",
+  "active": "471bea055b8c5f93",
   "lastOpenFiles": [
-    "Daily Notes or Temporary/Como o pagamento por aproximação funciona.md",
-    "3. Resources/Rotina de Exercícios.md",
-    "3. Resources/Vídeos para ver Depois.md",
+    "Home.md",
+    "Pensamentos e Listas de fazeres.md",
+    "my_vault/one note.md",
+    "my_vault",
     "Vídeos Watch.md",
-    "Painel.md",
+    "Lista de compras.md",
+    "Material para comprar Moto.md",
+    "2. Areas/Programming/Full HTTP Networking Course.md",
+    "2. Areas/Programming/Protocolos HTTP.md",
+    "Assets/Pasted image 20250608075613.png",
+    "3. Resources/Vídeos para ver Depois.md",
+    "2. Areas/Programming/Curso.dev.md",
+    "2. Areas/Programming/Livro - Entendendo Algoritmos.md",
+    "Assets/Pasted image 20250523192502.png",
+    "2. Areas/Programming/_Glossário Programação.md",
+    "Assets/Pasted image 20250520175423.png",
+    "Assets/Pasted image 20250518194924.png",
+    "Assets/lvjZb5u.png",
+    "Excalidraw/Drawing 2025-05-18 19.01.25.excalidraw.md",
+    "Assets/Pasted image 20250518190439.png",
+    "Excalidraw",
     "2. Areas/Languages/English/Untitled.md",
+    "Daily Notes or Temporary/Estudar Medicamentos funcionalidade.md",
+    "3. Resources/Rotina de Exercícios.md",
+    "2. Areas/Organização dos projetos.md",
+    "1. Projects/Explorer Ideias.md",
+    "1. Projects/Build 25 React Projects.md",
+    "2. Areas/Programming/Responsividade.md",
+    "2. Areas/Programming/Quando NÃO usar SQL.md",
+    "2. Areas/Programming/NodeJs.md",
+    "2. Areas/Programming/Git.md",
+    "2. Areas/Programming/Escolha do Banco de Dados.md",
+    "Assets/2.mkv",
+    "Assets/Pasted image 20250504190356.png",
+    "Assets/Pasted image 20250504185814.png",
+    "Assets/Pasted image 20250504184956.png",
+    "Daily Notes or Temporary/Como o pagamento por aproximação funciona.md",
     "().md",
     "2. Areas/Languages/English",
     "2. Areas/Languages",
-    "2. Areas/Programming/_Glossário Programação.md",
-    "2. Areas/Programming/Curso.dev.md",
-    "1. Projects/Explorer Ideias.md",
-    "4. Assets/Mecânica Guia de Estudos.md",
-    "2. Areas/Programming/Git.md",
     "Assets/Pasted image 20250503202635.png",
-    "Assets/Pasted image 20250503202045.png",
-    "Assets/Pasted image 20250503201856.png",
-    "Assets/Pasted image 20250503201816.png",
-    "2. Areas/Programming/Protocolos HTTP.md",
-    "Daily Notes or Temporary/Estudar Medicamentos funcionalidade.md",
-    "Daily Notes or Temporary/01-05-2025.md",
     "Daily Notes or Temporary",
-    "2. Areas/Programming/NodeJs.md",
-    "2. Areas/Organização dos projetos.md",
-    "2025-05-01.md",
-    "NodeJs.md",
-    "2. Areas/Programming/Escolha do Banco de Dados.md",
-    "2. Areas/Programming/Quando NÃO usar SQL.md",
-    "Assets/Pasted image 20250501073918.png",
     "Assets",
-    "Templates/Area Template.md",
-    "Glossário Programação.md",
-    "2. Areas/Programming/Drawing 2025-04-29 19.13.00.excalidraw.md",
-    "2. Areas/Mecânica/Manutenção Moto.md",
-    "2. Areas/Mecânica/Óleo de motor.md",
     "2. Areas/Mecânica",
     "2. Areas/Programming",
     "2. Areas/Untitled.canvas",
-    "Templates",
-    "3. Resources",
-    "2. Areas",
-    "1. Projects"
+    "Templates"
   ]
 }

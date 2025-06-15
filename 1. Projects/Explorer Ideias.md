@@ -2,6 +2,7 @@
 Status: 🟡
 tags:
   - Explorer
+  - project
 links: "[[Project Template]]"
 Deadline: 2025-05-10
 Area: "[[]]"

@@ -26,7 +26,19 @@
     "http": 14,
     "protocols": 15,
     "git": 16,
-    "github": 17
+    "github": 17,
+    "freecodecamp": 18,
+    "responsive": 19,
+    "css": 20,
+    "tailwind": 21,
+    "projects": 22,
+    "Sobre": 23,
+    "algoritmos": 24,
+    "flashcards": 25,
+    "flashcard": 26,
+    "deck": 27,
+    "deck/HTTP": 1,
+    "Relembrar": 28
   },
   "_version": 3
 }

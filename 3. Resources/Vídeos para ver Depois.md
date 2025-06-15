@@ -7,6 +7,8 @@
 
 - [Criando uma sidebar com Html, css e JS](https://www.youtube.com/watch?v=R7b3OlEyqug&list=WL&index=3&ab_channel=Coding2GO)
 - [11 UX dicas para navegações](https://www.youtube.com/watch?v=D29KL52Srtw&list=WL&index=3&ab_channel=DesignCourse)
+- [5 Melhores práticas para trabalhar com Zustand](https://www.youtube.com/watch?v=6tEQ1nJZ51w&list=WL&index=3&ab_channel=BetterStack)
+- 
 
 - [Guias para Freelancer]
 	- [Levantamento de Requisito](https://www.youtube.com/watch?v=xEdGAC0qzgY&list=WL&index=3&ab_channel=ONovoProgramador)
@@ -19,7 +21,7 @@
 - [Entrevistas Frontend]
 	- [ Mock React Interview - Questions and Challenge](https://www.youtube.com/watch?v=QjBAEPcNZHs&list=WL&index=4&ab_channel=CosdenSolutions)
 	- [Google Frontend Interview](https://www.youtube.com/watch?v=ai1zmNO5Z3E&list=WL&index=3&ab_channel=Cl%C3%A9mentMihailescu)
-	- 
+
 
 - [Design Patterns In React](https://www.youtube.com/watch?v=QjBAEPcNZHs&list=WL&index=4&ab_channel=CosdenSolutions)
 - [Site mais leve com imagens responsivas](https://www.youtube.com/watch?v=fp9eVtkQ4EA&list=WL&index=5&ab_channel=WebDevSimplified)
@@ -29,13 +31,14 @@
 
 
 - [Trabalho e relacionados]
+	- [Linkedin para Programadores](https://www.youtube.com/watch?v=Ds-UMA1R9RY&list=WL&index=4&ab_channel=Algoritmo%26Caf%C3%A9)
 	- [Por que nós deveríamos contratar você?](https://www.youtube.com/watch?v=WQ6snVCCgt4&list=WL&index=3&ab_channel=TheCompaniesExpert)
 	- [Como maximizar a busca de trabalho](https://www.youtube.com/watch?v=1X5bBLvmvww&list=WL&index=4&ab_channel=JavaScriptMastery)
+	- [Freelancer em 2025](https://www.youtube.com/watch?v=zK8ymjWCyRY&ab_channel=AttekitaDev)
 
 
 
 ## Languages
-- [17 minutos para melhorar 170%](https://www.youtube.com/watch?v=fbmWgVN2eKk&list=WL&index=5&ab_channel=RussellClausse)
 - [Entender Inglês falado rápido](https://www.youtube.com/watch?v=TkbLmOgScAs&list=WL&index=4&ab_channel=Arnel%27sEverydayEnglish)
 - [1h de lições de vocabulário](https://www.youtube.com/watch?v=zfJAxhbz6PE&list=WL&index=3&ab_channel=InteractiveEnglish)
 - [CONFUSING TIME EXPRESSIONS IN ENGLISH | on/in time? | at/in the beginning? | recently/lately?](https://www.youtube.com/watch?v=gUOi5Y_n_14&list=WL&index=3&ab_channel=Arnel%27sEverydayEnglish)
@@ -45,7 +48,9 @@
 
 ## Mecânica
 - [Cada parte do motor explicado](https://www.youtube.com/watch?v=9KKfIYch1FE&list=WL&index=3&ab_channel=Donut)
+- [O que nenhum mecânico contou sobre Carro Velho](https://www.youtube.com/watch?v=oKVLQmqTHA8)
 - 
+
 
 
 
@@ -56,7 +61,7 @@
 - [Fundamentos de Figure Drawing](https://www.youtube.com/watch?v=gpH8T2CRlLI&list=WL&index=3&ab_channel=RichardSmitheman)
 - [1 exercício para melhorar](https://www.youtube.com/watch?v=Ol6Erpn7K6Q&list=PLZGN5jafwZKGozMmlYf67S4J52k9mlOXs&ab_channel=TheArtOfNemo)
 - [Desenhar mãos melhores](https://www.youtube.com/watch?v=XBMQ-H-qUVk&list=PLZGN5jafwZKGozMmlYf67S4J52k9mlOXs&index=2&ab_channel=MarcoBucci)
-- 
+- [Como praticar desenhar cabeças](https://www.youtube.com/watch?v=6fAvQrxASZ8&ab_channel=EddieZArt)
 
 
 ### Culinária
@@ -65,11 +70,11 @@
 - 
 
 ### Curiosidade
-- [A magia por trás das antigas TV de tubo](https://www.youtube.com/watch?v=FyRbwU8s55s&list=WL&index=4&ab_channel=BrunoRataque)
 - [Como batalhas realmente pareciam](https://www.youtube.com/watch?v=_GKLsHwCXx0&list=WL&index=4&ab_channel=HistoriaMilitum)
 - [Como tirar fotos corretamente](https://www.youtube.com/watch?v=AJlp_obQgq8&list=WL&index=3&ab_channel=TimShields)
 - [Loja de cafés - nomes explicados](https://www.youtube.com/watch?v=rLaVDQy0q8Y&list=WL&index=3&ab_channel=ArtistiCoffeeRoasters.)
 - [O big bang explicado](https://www.youtube.com/watch?v=nNAuuTIf3LE&list=WL&index=4&ab_channel=Ci%C3%AAnciaTodoDia)
+- [Alguns conceitos de mecânica explicados](https://www.youtube.com/watch?v=hNNpvvmvyCU&ab_channel=KnowArt)
 
 ### Outros
 - [Upgrade de Setup que de fato importam](https://www.youtube.com/watch?v=sokNsjgZN7A&list=WL&index=6&ab_channel=Shen)

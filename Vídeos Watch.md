@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## Assistir
 
-- [ ] Vídeos Youtube para assistir
 - [ ] Hobbies / Interesse:
 	[[Vídeos para ver Depois]]
 

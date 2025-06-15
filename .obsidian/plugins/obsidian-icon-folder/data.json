@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasFaceGrinTongueWink",
-      "SiGit",
-      "CoNote",
-      "OcLaw16",
-      "LiServer"
+      "RiSpeedFill",
+      "LiTable",
+      "FasReceipt",
+      "LiRuler",
+      "FasHammer"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -48,5 +48,11 @@
   "2. Areas/Programming/Protocolos HTTP.md": "OcLaw16",
   "Daily Notes or Temporary": "CoNote",
   "2. Areas/Programming/Git.md": "SiGit",
-  "2. Areas/Languages": "FasFaceGrinTongueWink"
+  "2. Areas/Languages": "FasFaceGrinTongueWink",
+  "2. Areas/Programming/Full HTTP Networking Course.md": "SiAiohttp",
+  "1. Projects/Build 25 React Projects.md": "FasHammer",
+  "2. Areas/Programming/Responsividade.md": "LiRuler",
+  "2. Areas/Programming/Livro - Entendendo Algoritmos.md": "FasReceipt",
+  "Vídeos Watch.md": "RiSpeedFill",
+  "Home.md": "LiTable"
 }

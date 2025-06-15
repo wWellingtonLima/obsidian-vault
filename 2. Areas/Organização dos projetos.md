@@ -13,6 +13,6 @@ where contains(Status, "🔴")
 ## Em Progresso
 ```dataview
 table Status, Deadline
-from [[]] AND #project 
+from "1. Projects" AND #project 
 where contains(Status, "🟡")
 ```
